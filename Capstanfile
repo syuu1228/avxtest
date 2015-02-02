@@ -1,0 +1,8 @@
+base: cloudius/osv-base
+
+cmdline: /add.so
+
+build: make
+
+files:
+    /add.so: add.so
